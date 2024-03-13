@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/react-cafe-website/static/css/main.bcbb1791.css",
-    "main.js": "/react-cafe-website/static/js/main.5a4ce495.js",
+    "main.css": "/react-cafe-website/static/css/main.87aadaf0.css",
+    "main.js": "/react-cafe-website/static/js/main.674a84e1.js",
     "static/js/453.b21437c2.chunk.js": "/react-cafe-website/static/js/453.b21437c2.chunk.js",
+    "static/media/1.jpg": "/react-cafe-website/static/media/1.545c124d1f28e9a7d62e.jpg",
+    "static/media/2.jpg": "/react-cafe-website/static/media/2.678fec01e71231843d3c.jpg",
     "static/media/main-background.jpg": "/react-cafe-website/static/media/main-background.1afdfbfa8fc129a26510.jpg",
     "index.html": "/react-cafe-website/index.html",
-    "main.bcbb1791.css.map": "/react-cafe-website/static/css/main.bcbb1791.css.map",
-    "main.5a4ce495.js.map": "/react-cafe-website/static/js/main.5a4ce495.js.map",
+    "main.87aadaf0.css.map": "/react-cafe-website/static/css/main.87aadaf0.css.map",
+    "main.674a84e1.js.map": "/react-cafe-website/static/js/main.674a84e1.js.map",
     "453.b21437c2.chunk.js.map": "/react-cafe-website/static/js/453.b21437c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcbb1791.css",
-    "static/js/main.5a4ce495.js"
+    "static/css/main.87aadaf0.css",
+    "static/js/main.674a84e1.js"
   ]
 }
