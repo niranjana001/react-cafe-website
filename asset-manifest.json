@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-cafe-website/static/css/main.57c1e659.css",
+    "main.js": "/react-cafe-website/static/js/main.5e78659e.js",
+    "static/js/453.b21437c2.chunk.js": "/react-cafe-website/static/js/453.b21437c2.chunk.js",
+    "static/media/main-background.jpg": "/react-cafe-website/static/media/main-background.1afdfbfa8fc129a26510.jpg",
+    "index.html": "/react-cafe-website/index.html",
+    "main.57c1e659.css.map": "/react-cafe-website/static/css/main.57c1e659.css.map",
+    "main.5e78659e.js.map": "/react-cafe-website/static/js/main.5e78659e.js.map",
+    "453.b21437c2.chunk.js.map": "/react-cafe-website/static/js/453.b21437c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57c1e659.css",
+    "static/js/main.5e78659e.js"
+  ]
+}
